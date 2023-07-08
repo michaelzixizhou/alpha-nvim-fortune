@@ -68,7 +68,7 @@ end
 
 
 local main = function()
-    local max_width = 48
+    local max_width = 50
 
     -- Credit to @mhinz for compiling this list in vim-startify
     local fortune_list = {
